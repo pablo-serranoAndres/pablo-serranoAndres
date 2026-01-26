@@ -8,10 +8,10 @@
 <table align="center" cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse;">
   <tr>
     <td align="center" style="border:none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=pablo-serranoAndres&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+      <img src="https://github-readme-stats.vercel.app/api?username=pablo-serranoAndres&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="400" height="200" />
     </td>
     <td align="center" style="border:none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-serranoAndres&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-serranoAndres&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400" height="200" />
     </td>
   </tr>
 </table>
