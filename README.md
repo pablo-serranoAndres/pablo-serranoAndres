@@ -7,17 +7,12 @@
 </ul> <br>
 
 <table align="center" cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse;">
-  <tr>
-    <td align="center" style="border:none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=pablo-serranoAndres&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-    </td>
-    <td align="center" style="border:none;">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=pablo-serranoAndres&theme=dark&hide_border=true" />
-    </td>
-    <td align="center" style="border:none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-serranoAndres&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-    </td>
-  </tr>
+<tr>
+  <td>![](https://github-readme-stats.vercel.app/api?username=pablo-serranoAndres&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/></td>
+  <td>![](https://nirzak-streak-stats.vercel.app/?user=pablo-serranoAndres&theme=dark&hide_border=false)</td>
+  <td>![](https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-serranoAndres&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</td>
+</tr>
 </table>
 <br>
 ## 💻 Tech Stack:
