@@ -3,7 +3,7 @@
 ## Current projects
 <ul>
   <li>
-    🤖 [ballesterosayingsbot](https://ejemplo.com)
+    🤖 [ballesterosayingsbot](https://github.com/pablo-serranoAndres/ballesterosayings-bot)
   </li>
 </ul>
 
