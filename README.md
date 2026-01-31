@@ -3,7 +3,7 @@
 ## Current projects
 <ul>
   <li>
-    🤖 <b><a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot">ballesterosayingsbot</a></b>>: Telegram bot that manages sayings from a book by Aragonese authors, featuring CRUD operations, multilingual support, filtering, and role-based access control.
+    🤖 <b><a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot">ballesterosayingsbot</a></b>: Telegram bot that manages sayings from a book by Aragonese authors, featuring CRUD operations, multilingual support, filtering, and role-based access control.
   </li>
 </ul>
 
