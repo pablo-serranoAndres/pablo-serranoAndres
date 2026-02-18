@@ -1,5 +1,10 @@
 # Hey!, I'm Pablo👋
 
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [Nombre](url) | Descripción breve | Tech1, Tech2 |
+| [Nombre](url) | Descripción breve | Tech1, Tech2 |
+
 ## Current projects
 <ul>
   <li>
