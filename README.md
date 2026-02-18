@@ -23,12 +23,16 @@
     <tr>
       <td>
         <span>
-          🤖<b><a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot">ballesterosayingsbot</a></b>
+          🐛<b><a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot">greta</a></b>
         </span>
       </td>
-      <td>Telegram bot that manages sayings to create a book, featuring CRUD operations,<br/> multilingual support, filtering, and role-based access control.</td>
+      <td>Streaming platform for independent cinema, featuring curated collections, director profiles, and personalized recommendations.</td>
       <td>
-        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+        <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" alt="EJS"/>
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
       </td>
     </tr>
 
