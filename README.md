@@ -3,9 +3,9 @@
 <table>
   <thead>
     <tr>
+      <th style="width:150px">Stack</th>
       <th style="min-width:150px">Project</th>
       <th style="max-width:200px">Description</th>
-      <th style="min-width:150px">Stack</th>
     </tr>
   </thead>
   <tbody>
