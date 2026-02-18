@@ -11,7 +11,7 @@
   <tbody>
     <tr>
       <td>
-        <h3>🤖 <a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot">ballesterosayings</a></h3>
+        <h3>🤖 <a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot">Ballestero sayings bot</a></h3>
       </td>
       <td>Telegram bot that manages sayings to create a book, featuring CRUD operations, multilingual support, filtering, and role-based access control.</td>
       <td>
