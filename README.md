@@ -3,7 +3,6 @@
 <table>
   <thead>
     <tr>
-      <th></th>
       <th>Project</th>
       <th>Description</th>
       <th>Stack</th>
@@ -11,11 +10,9 @@
   </thead>
   <tbody>
     <tr>
-      <td><span>
-        <h2>🤖</h2>
-      </span></td>
       <td>
         <span>
+          <h1>🤖</h1>
           <b><a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot">ballesterosayingsbot</a></b>
         </span>
       </td>
@@ -26,9 +23,9 @@
       </td>
     </tr>
     <tr>
-      <td><h1>🐛</h1></td>
       <td>
         <span>
+          <h1>🐛</h1>
           <b><a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot">greta</a></b>
         </span>
       </td>
@@ -42,9 +39,9 @@
       </td>
     </tr>
     <tr>
-      <td><h1>🧶</h1></td>
       <td>
         <span>
+          <h1>🧶</h1>
           <b><a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot">Stitch the Weather</a></b>
         </span>
       </td>
