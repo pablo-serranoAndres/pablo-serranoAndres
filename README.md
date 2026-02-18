@@ -39,6 +39,20 @@
         <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
       </td>
     </tr>
+    <tr>
+      <td>🧶</td>
+      <td>
+        <span>
+          <b><a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot">Stitch the Weather</a></b>
+        </span>
+      </td>
+      <td>Temperature blanket tracker that logs daily temperatures and maps them to yarn colors, helping you plan and record your knitting progress row by row.</td>
+      <td>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
+      </td>
+    </tr>
   </tbody>
 </table>
 <br/>
