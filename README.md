@@ -3,6 +3,7 @@
 <table>
   <thead>
     <tr>
+      <th></th>
       <th>Project</th>
       <th>Description</th>
       <th>Stack</th>
@@ -10,9 +11,10 @@
   </thead>
   <tbody>
     <tr>
+      <td>🤖</td>
       <td>
         <span>
-          🤖<b><a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot">ballesterosayingsbot</a></b>
+          <b><a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot">ballesterosayingsbot</a></b>
         </span>
       </td>
       <td>Telegram bot that manages sayings to create a book, featuring CRUD operations,<br/> multilingual support, filtering, and role-based access control.</td>
@@ -21,9 +23,10 @@
       </td>
     </tr>
     <tr>
+      <td>🐛</td>
       <td>
         <span>
-          🐛<b><a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot">greta</a></b>
+          <b><a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot">greta</a></b>
         </span>
       </td>
       <td>Streaming platform for independent cinema, featuring curated collections, director profiles, and personalized recommendations.</td>
