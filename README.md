@@ -12,7 +12,7 @@
   <tbody>
     <tr>
       <td>
-        <h2>🤖&nbsp;</h2>
+        <p><h2>🤖</h2></p>
       </td>
       <td>
         <h4><a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot">ballesterosayingsbot</a></h4>
