@@ -24,7 +24,7 @@
       </td>
     </tr>
     <tr>
-      <td>🐛</td>
+      <td><h1>🐛</h1></td>
       <td>
         <span>
           <b><a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot">greta</a></b>
@@ -40,7 +40,7 @@
       </td>
     </tr>
     <tr>
-      <td>🧶</td>
+      <td><h1>🧶</h1></td>
       <td>
         <span>
           <b><a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot">Stitch the Weather</a></b>
