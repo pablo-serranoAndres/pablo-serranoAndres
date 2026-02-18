@@ -24,10 +24,7 @@
     </tr>
     <tr>
       <td>
-        <span>
-          🐛
-          <b><a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot">greta</a></b>
-        </span>
+        <b>🐛<a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot">greta</a></b>
       </td>
       <td>Streaming platform for independent cinema, featuring curated collections, director profiles, and personalized recommendations.</td>
       <td>
