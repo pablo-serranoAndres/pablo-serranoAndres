@@ -11,7 +11,9 @@
   </thead>
   <tbody>
     <tr>
-      <td><h2>🤖</h2></td>
+      <td><span>
+        <h2>🤖</h2>
+      </span></td>
       <td>
         <span>
           <b><a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot">ballesterosayingsbot</a></b>
