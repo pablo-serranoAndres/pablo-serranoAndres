@@ -15,7 +15,7 @@
       </td>
       <td>
         <span>
-          <b><a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot">ballesterosayingsbot</a></b>
+          🤖<b><a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot">ballesterosayingsbot</a></b>
         </span>
       </td>
       <td> Telegram bot that manages sayings to create a book, featuring CRUD operations,<br/> multilingual support, filtering, and role-based access control.</td>
