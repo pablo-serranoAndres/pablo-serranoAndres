@@ -25,7 +25,7 @@
     <tr>
       <td>
         <span>
-          <h1>🐛</h1>
+          🐛
           <b><a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot">greta</a></b>
         </span>
       </td>
