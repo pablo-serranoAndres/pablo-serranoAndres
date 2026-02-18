@@ -17,7 +17,7 @@
           <b><a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot">ballesterosayingsbot</a></b>
         </span>
       </td>
-      <td>Telegram bot that manages sayings to create a book, featuring CRUD operations,<br/> multilingual support, filtering, and role-based access control.</td>
+      <td>Telegram bot that manages sayings to create a book, featuring CRUD operations, multilingual support, filtering, and role-based access control.</td>
       <td>
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
       </td>
