@@ -3,9 +3,9 @@
 <table>
   <thead>
     <tr>
-      <th style="width:150px">Stack</th>
-      <th style="min-width:150px">Project</th>
-      <th style="max-width:200px">Description</th>
+      <th>Stack</th>
+      <th>Project</th>
+      <th>Description</th>
     </tr>
   </thead>
   <tbody>
@@ -18,7 +18,7 @@
           <b><a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot">ballesterosayingsbot</a></b>
         </span>
       </td>
-      <td> Telegram bot that manages sayings to create a book, featuring CRUD operations, multilingual support,<br/> filtering, and role-based access control.</td>
+      <td> Telegram bot that manages sayings to create a book, featuring CRUD operations,<br/> multilingual support, filtering, and role-based access control.</td>
     </tr>
   </tbody>
 </table>
