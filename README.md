@@ -11,10 +11,7 @@
   <tbody>
     <tr>
       <td>
-        <span>
-          <h1>🤖</h1>
-          <b><a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot">ballesterosayingsbot</a></b>
-        </span>
+        <h3>🤖 <a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot">ballesterosayingsbot</a></h3>
       </td>
       <td>Telegram bot that manages sayings to create a book, featuring CRUD operations, multilingual support, filtering, and role-based access control.</td>
       <td>
@@ -24,7 +21,7 @@
     </tr>
     <tr>
       <td>
-        <b>🐛<a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot">greta</a></b>
+        <h3>🐛 <a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot">greta</a></h3>
       </td>
       <td>Streaming platform for independent cinema, featuring curated collections, director profiles, and personalized recommendations.</td>
       <td>
@@ -37,10 +34,7 @@
     </tr>
     <tr>
       <td>
-        <span>
-          <h1>🧶</h1>
-          <b><a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot">Stitch the Weather</a></b>
-        </span>
+        <h3>🧶 <a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot">Stitch the Weather</a></h3>
       </td>
       <td>Temperature blanket tracker that logs daily temperatures and maps them to yarn colors, helping you plan and record your knitting progress row by row.</td>
       <td>
@@ -49,7 +43,7 @@
         <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
       </td>
     </tr>
-  </tbody>
+</tbody>
 </table>
 <br/>
 
