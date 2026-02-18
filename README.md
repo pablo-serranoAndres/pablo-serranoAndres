@@ -11,14 +11,14 @@
   <tbody>
     <tr>
       <td>
+        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+      </td>
+      <td>
         <span>
           🤖 <b><a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot">ballesterosayingsbot</a></b>
         </span>
       </td>
-      <td>Telegram bot for managing sayings with CRUD, multilingual support <br/>and role-based access.</td>
-      <td>
-        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-      </td>
+      <td> Telegram bot that manages sayings to create a book, featuring CRUD operations, multilingual support, filtering, and role-based access control.</td>
     </tr>
   </tbody>
 </table>
