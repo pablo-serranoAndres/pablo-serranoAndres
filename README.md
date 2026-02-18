@@ -6,9 +6,32 @@
 | [Nombre](url) | Descripción breve | Tech1, Tech2 |
 
 ## Current projects
+<table>
+  <thead>
+    <tr>
+      <th style="min-width:150px">Project</th>
+      <th style="min-width:300px">Description</th>
+      <th style="min-width:120px">Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        🤖 <b><a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot">ballesterosayingsbot</a></b>
+      </td>
+      <td>
+        Telegram bot that manages sayings to create a book, featuring CRUD operations, multilingual support, filtering, and role-based access control.
+      </td>
+      <td>
+        ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)****
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 <ul>
   <li>
-    🤖 <b><a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot">ballesterosayingsbot</a></b>: Telegram bot that manages sayings to create a book, featuring CRUD operations, multilingual support, filtering, and role-based access control.
+    : 
   </li>
 </ul>
 
