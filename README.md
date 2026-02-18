@@ -4,17 +4,19 @@
   <thead>
     <tr>
       <th style="min-width:150px">Project</th>
-      <th style="min-width:200px">Description</th>
+      <th style="max-width:200px">Description</th>
       <th style="min-width:150px">Stack</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
-        🤖 <b><a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot">ballesterosayingsbot</a></b>
+        <span>
+          🤖 <b><a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot">ballesterosayingsbot</a></b>
+        </span>
       </td>
       <td>
-        a
+        Telegram bot that manages sayings to create a book, featuring CRUD operations, multilingual support, filtering, and role-based access control.
       </td>
       <td>
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
