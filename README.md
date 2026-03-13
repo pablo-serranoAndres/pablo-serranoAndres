@@ -14,7 +14,9 @@
   <tbody>
     <tr>
       <td nowrap><a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot"><code>ballesterosayings-bot</code></a></td>
-      <td align="center" valign="middle">🤖 Ballestero sayings bot</td>
+      <td align="center" valign="middle">
+        🤖<br/>Ballestero sayings bot
+      </td>
       <td>Bot de Telegram con gestión CRUD y roles.</td>
       <td>
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
@@ -22,7 +24,9 @@
     </tr>
     <tr>
       <td nowrap><a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot"><code>greta-cinema</code></a></td>
-      <td align="center" valign="middle">🐛 Greta</td>
+      <td align="center" valign="middle">
+        🐛<br/>Greta
+      </td>
       <td>Streaming de cine independiente y recomendaciones.</td>
       <td>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
@@ -34,7 +38,9 @@
     </tr>
     <tr>
       <td nowrap><a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot"><code>stitch-the-weather</code></a></td>
-      <td align="center" valign="middle">🧶 Stitch the Weather</td>
+      <td align="center" valign="middle">
+        🧶<br/>Stitch the Weather
+      </td>
       <td>Tracker de temperatura para proyectos de punto.</td>
       <td>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
