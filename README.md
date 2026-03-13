@@ -33,4 +33,16 @@
       </td>
     </tr>
     <tr>
-      <td nowrap><a href="
+      <td nowrap><a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot"><code>stitch-the-weather</code></a></td>
+      <td align="center" valign="middle">🧶 Stitch the Weather</td>
+      <td>Tracker de temperatura para proyectos de punto.</td>
+      <td>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
