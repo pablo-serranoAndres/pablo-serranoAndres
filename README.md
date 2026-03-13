@@ -5,7 +5,7 @@
 <table>
   <thead>
     <tr>
-      <th align="left" width="250">Repo</th>
+      <th align="left" width="300">Repo</th>
       <th align="center">Project</th>
       <th align="left">Description</th>
       <th align="left">Stack</th>
@@ -13,9 +13,11 @@
   </thead>
   <tbody>
     <tr>
-      <td nowrap><a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot"><code>ballesterosayings-bot</code></a></td>
+      <td width="300">
+        <a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot"><code>ballesterosayings-bot</code></a>
+      </td>
       <td align="center" valign="middle">
-        🤖<br/>Ballestero sayings bot
+        🤖<br/><strong>Ballestero sayings bot</strong>
       </td>
       <td>Bot de Telegram con gestión CRUD y roles.</td>
       <td>
@@ -23,9 +25,11 @@
       </td>
     </tr>
     <tr>
-      <td nowrap><a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot"><code>greta-cinema</code></a></td>
+      <td width="300">
+        <a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot"><code>greta-cinema</code></a>
+      </td>
       <td align="center" valign="middle">
-        🐛<br/>Greta
+        🐛<br/><strong>Greta</strong>
       </td>
       <td>Streaming de cine independiente y recomendaciones.</td>
       <td>
@@ -37,9 +41,11 @@
       </td>
     </tr>
     <tr>
-      <td nowrap><a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot"><code>stitch-the-weather</code></a></td>
+      <td width="300">
+        <a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot"><code>stitch-the-weather</code></a>
+      </td>
       <td align="center" valign="middle">
-        🧶<br/>Stitch the Weather
+        🧶<br/><strong>Stitch the Weather</strong>
       </td>
       <td>Tracker de temperatura para proyectos de punto.</td>
       <td>
