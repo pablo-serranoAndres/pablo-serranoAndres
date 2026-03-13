@@ -5,7 +5,7 @@
 <table>
   <thead>
     <tr>
-      <th align="left" width="300">Repo</th>
+      <th align="left" width="180">Repo</th>
       <th align="center">Project</th>
       <th align="left">Description</th>
       <th align="left">Stack</th>
@@ -13,7 +13,7 @@
   </thead>
   <tbody>
     <tr>
-      <td width="300">
+      <td width="180">
         <a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot"><code>ballesterosayings-bot</code></a>
       </td>
       <td align="center" valign="middle">
@@ -25,7 +25,7 @@
       </td>
     </tr>
     <tr>
-      <td width="300">
+      <td width="180">
         <a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot"><code>greta-cinema</code></a>
       </td>
       <td align="center" valign="middle" rowspan="2">
@@ -38,16 +38,17 @@
       </td>
     </tr>
     <tr>
-      <td width="300">
+      <td width="180">
         <a href="https://github.com/pablo-serranoAndres/sandres-cms"><code>sandres-cms</code></a>
       </td>
       <td>Backend y gestor de contenidos para la plataforma.</td>
       <td>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
       </td>
     </tr>
     <tr>
-      <td width="300">
+      <td width="180">
         <a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot"><code>stitch-the-weather</code></a>
       </td>
       <td align="center" valign="middle">
