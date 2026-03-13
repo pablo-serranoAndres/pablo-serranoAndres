@@ -5,15 +5,15 @@
 <table>
   <thead>
     <tr>
-      <th>Repo</th>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Stack</th>
+      <th align="left">Repo</th>
+      <th align="left">Project</th>
+      <th align="left">Description</th>
+      <th align="left">Stack</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot"><code>ballesterosayings-bot</code></a></td>
+      <td nowrap><a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot"><code>ballesterosayings-bot</code></a></td>
       <td>🤖 Ballestero sayings bot</td>
       <td>Bot de Telegram con gestión CRUD y roles.</td>
       <td>
@@ -21,7 +21,7 @@
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot"><code>greta-cinema</code></a></td>
+      <td nowrap><a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot"><code>greta-cinema</code></a></td>
       <td>🐛 Greta</td>
       <td>Streaming de cine independiente y recomendaciones.</td>
       <td>
@@ -33,10 +33,16 @@
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot"><code>stitch-the-weather</code></a></td>
+      <td nowrap><a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot"><code>stitch-the-weather</code></a></td>
       <td>🧶 Stitch the Weather</td>
       <td>Tracker de temperatura para proyectos de punto.</td>
       <td>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-        <img src="
+        <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
