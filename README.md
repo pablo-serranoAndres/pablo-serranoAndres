@@ -15,7 +15,7 @@
       </td>
       <td>Telegram bot that manages sayings to create a book, featuring CRUD operations, multilingual support, filtering, and role-based access control.</td>
       <td>
-        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=linux&logoColor=ffdd54" alt="Linux" />
       </td>
     </tr>
     <tr>
