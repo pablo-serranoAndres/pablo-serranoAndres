@@ -5,7 +5,7 @@
 <table>
   <thead>
     <tr>
-      <th align="left" width="170">Repo</th>
+      <th align="left" width="180">Repo</th>
       <th align="center">Project</th>
       <th align="left">Description</th>
       <th align="left">Stack</th>
@@ -13,7 +13,7 @@
   </thead>
   <tbody>
     <tr>
-      <td width="170">
+      <td width="180">
         <a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot"><code>ballesterosayings-bot</code></a>
       </td>
       <td align="center" valign="middle">
@@ -25,7 +25,7 @@
       </td>
     </tr>
     <tr>
-      <td width="170">
+      <td width="180">
         <a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot"><code>greta-cinema</code></a>
       </td>
       <td align="center" valign="middle">
@@ -41,7 +41,7 @@
       </td>
     </tr>
     <tr>
-      <td width="170">
+      <td width="180">
         <a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot"><code>stitch-the-weather</code></a>
       </td>
       <td align="center" valign="middle">
