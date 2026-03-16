@@ -26,7 +26,7 @@
     </tr>
     <tr>
       <td width="180">
-        <a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot"><code>greta-cinema</code></a>
+        <a href="https://github.com/pablo-serranoAndres/sandres-cms-front"><code>sandres-cms-front</code></a>
       </td>
       <td align="center" valign="middle" rowspan="2">
         🐛<br/><strong>Greta</strong>
