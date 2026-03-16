@@ -40,7 +40,7 @@
     </tr>
     <tr>
       <td width="180">
-        <a href="https://github.com/pablo-serranoAndres/sandres-cms"><code>sandres-cms</code></a>
+        <a href="https://github.com/pablo-serranoAndres/sandres-cms-api"><code>sandres-cms-api</code></a>
       </td>
       <td>Backend y gestor de contenidos para la plataforma.</td>
       <td>
