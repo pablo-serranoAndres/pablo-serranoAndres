@@ -64,27 +64,26 @@
     </tr>
     <tr>
       <td width="180">
-        <a href="https://github.com/pablo-serranoAndres/sandres-cms-front"><code>stardew-valley-app</code></a>
+        <a href="https://github.com/pablo-serranoAndres/stardew-valley-app"><code>stardew-valley-app</code></a>
       </td>
       <td align="center" valign="middle" rowspan="2">
-        🐛<br/><strong>The Stardew Valley Api</strong>
+        🐔<br/><strong>The Stardew Valley Api</strong>
       </td>
       <td>An api to query easily all the items from the game</td>
       <td>
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-        <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
+        <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
       </td>
     </tr>
     <tr>
       <td width="180">
-        <a href="https://github.com/pablo-serranoAndres/sandres-cms-api"><code>sandres-cms-api</code></a>
+        <a href="https://github.com/pablo-serranoAndres/stardew-valley-api"><code>stardew-valley-api</code></a>
       </td>
       <td>Backend de la API.</td>
       <td>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-        <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL"/>
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
       </td>
     </tr>
   </tbody>
