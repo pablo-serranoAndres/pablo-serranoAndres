@@ -80,6 +80,7 @@
       <td width="180">
         <a href="https://github.com/pablo-serranoAndres/stardew-valley-api"><code>stardew-valley-api</code></a>
       </td>
+      <td>Backend de la API.</td>
       <td>
         <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
