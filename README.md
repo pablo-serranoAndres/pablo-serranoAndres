@@ -67,9 +67,9 @@
         <a href="https://github.com/pablo-serranoAndres/stardew-valley-app"><code>stardew-valley-app</code></a>
       </td>
       <td align="center" valign="middle" rowspan="2">
-        🐔<br/><strong>The Stardew Valley Api</strong>
+        🐔<br/><strong>The Stardew Valley API</strong>
       </td>
-      <td>An api to query easily all the items from the game</td>
+      <td rowspan="2" valign="middle">An API for querying game items with ease. Features a themed app to simplify management.</td>
       <td>
         <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
