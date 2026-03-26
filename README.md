@@ -51,7 +51,7 @@
     </tr>
     <tr>
       <td width="180">
-        <a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot"><code>stitch-the-weather</code></a>
+        <a href="https://github.com/pablo-serranoAndres/stitch-the-weather"><code>stitch-the-weather</code></a>
       </td>
       <td align="center" valign="middle">
         🧶<br/><strong>Stitch the Weather</strong>
@@ -69,7 +69,7 @@
       <td align="center" valign="middle" rowspan="2">
         🐔<br/><strong>The Stardew Valley API</strong>
       </td>
-      <td rowspan="2" valign="middle">An API for querying game items with ease. Features a themed app to simplify management.</td>
+      <td rowspan="2" valign="middle">An API to easily query game items. Includes a themed app to streamline the workflow.</td>
       <td>
         <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -87,5 +87,3 @@
     </tr>
   </tbody>
 </table>
-
-<br/>
