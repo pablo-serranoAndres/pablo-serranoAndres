@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL"/>
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
   </span>
-  <br/>
+  <br>
   <li>
     <a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot"><code>ballesterosayings-bot</code></a>: A Telegram bot to manage sayings from a book by Aragonese authors. Supports CRUD operations, multilingual filtering, and role-based access control (RBAC).
   </li>
@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   </span>
   
-  <br/>
+  <br>
 </ul>
 
 <table>
