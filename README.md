@@ -6,7 +6,7 @@
     <a href="https://github.com/pablo-serranoAndres/sandres-cms"><code>sandres-cms</code></a> : A streaming platform for family videos with a built-in CMS and Android app. Upload, organize, and share your family memories on a private platform with a streaming-style interface.
   </li>
   <li>
-    <a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot"><code>ballesterosayings-bot</code></a>: Bot de Telegram con gestión CRUD y roles.
+    <a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot"><code>ballesterosayings-bot</code></a>: A Telegram bot to manage sayings from a book by Aragonese authors. Supports CRUD operations, multilingual filtering, and role-based access control (RBAC).
   </li>
 </ul>
 
