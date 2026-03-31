@@ -3,7 +3,9 @@
 ## Current projects
 <ul>
   <li>
-    <a href="https://github.com/pablo-serranoAndres/sandres-cms"><code>sandres-cms</code></a>
+    <a href="https://github.com/pablo-serranoAndres/sandres-cms"><code>sandres-cms</code></a> : A streaming platform for family videos with a built-in CMS and Android app. Upload, organize, and share your family memories on a private platform with a streaming-style interface.
+
+
   </li>
 </ul>
 
