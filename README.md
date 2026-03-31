@@ -10,9 +10,9 @@
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
   </span>
   <li>
-    <a href="https://github.com/pablo-serranoAndres/sandres-cms"><code>sandres-cms</code></a> : A streaming platform for family videos with a built-in CMS and Android app. Upload, organize, and share your family memories on a private platform with a streaming-style interface.<br>
+    <a href="https://github.com/pablo-serranoAndres/sandres-cms"><code>sandres-cms</code></a> : A streaming platform for family videos with a built-in CMS and Android app. Upload, organize, and share your family memories on a private platform with a streaming-style interface.
   </li>
-
+  <p></p>
   <span>
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   </span>
