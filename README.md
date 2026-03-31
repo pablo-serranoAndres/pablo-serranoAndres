@@ -4,8 +4,9 @@
 <ul>
   <li>
     <a href="https://github.com/pablo-serranoAndres/sandres-cms"><code>sandres-cms</code></a> : A streaming platform for family videos with a built-in CMS and Android app. Upload, organize, and share your family memories on a private platform with a streaming-style interface.
-
-
+  </li>
+  <li>
+    <a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot"><code>ballesterosayings-bot</code></a>: Bot de Telegram con gestión CRUD y roles.
   </li>
 </ul>
 
@@ -21,7 +22,7 @@
   <tbody>
     <tr>
       <td width="180">
-        <a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot"><code>ballesterosayings-bot</code></a>
+        
       </td>
       <td align="center" valign="middle">
         🤖<br/><strong>Ballestero sayings bot</strong>
