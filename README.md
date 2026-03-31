@@ -11,8 +11,9 @@
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
     <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL"/>
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
+    <br>
   </span>
-  <br>
+  
   <li>
     <a href="https://github.com/pablo-serranoAndres/ballesterosayings-bot"><code>ballesterosayings-bot</code></a>: A Telegram bot to manage sayings from a book by Aragonese authors. Supports CRUD operations, multilingual filtering, and role-based access control (RBAC).
   </li>
