@@ -3,6 +3,9 @@
 ## Current projects
 <ul>
   <li>
+    <a href="https://github.com/pablo-serranoAndres/csv-to-mp4-script"><code>csv-to-mp4-script</code></a> : Automated PowerShell utility to batch convert ISOs to MP4 for sandres-cms, featuring intelligent classification for movies and series using HandBrakeCLI.
+  </li>
+  <li>
     <a href="https://github.com/pablo-serranoAndres/sandres-cms"><code>sandres-cms</code></a> : A streaming platform for family videos with a built-in CMS and Android app. Upload, organize, and share your family memories on a private platform with a streaming-style interface.
   </li>
   <li>
